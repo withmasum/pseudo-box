@@ -1,0 +1,17 @@
+h1 {
+    background-color: indianred;
+    display: inline;
+}
+
+span {
+    background-color: lawngreen;
+    display: inline;
+}
+
+div {
+    background-color: lightcoral;
+}
+
+a {
+    display: block;
+}
